@@ -1,46 +1,35 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://dev-spot.pl',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
+  title: 'Łukasz Ćwikliński Blog | Polski Blog Python i Django | Programowanie w języku Python Django',
+  subtitle: 'Python/Django developer.',
+  copyright: 'Copyright 2019 © Łukasz Ćwikliński',
+  disqusShortname: 'dev-spot-pl',
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'O mnie',
+      path: '/o-mnie'
     }
   ],
   author: {
     name: 'Łukasz Ćwikliński',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Python developer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: ''
+      email: 'artofbw@gmail.com',
+      facebook: 'https://www.facebook.com/profile.php?id=100000300945833',
+      twitter: 'https://twitter.com/CwiklinskiUkasz',
+      github: 'https://github.com/artofbw',
+      linkedin: 'https://www.linkedin.com/in/%C5%82ukasz-%C4%87wikli%C5%84ski-b7802ab4'
     }
   }
 };
