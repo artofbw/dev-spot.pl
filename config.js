@@ -26,10 +26,10 @@ module.exports = {
     bio: 'Python developer',
     contacts: {
       email: 'artofbw@gmail.com',
-      facebook: 'https://www.facebook.com/profile.php?id=100000300945833',
-      twitter: 'https://twitter.com/CwiklinskiUkasz',
-      github: 'https://github.com/artofbw',
-      linkedin: 'https://www.linkedin.com/in/%C5%82ukasz-%C4%87wikli%C5%84ski-b7802ab4'
+      facebook: '100000300945833',
+      twitter: 'CwiklinskiUkasz',
+      github: 'artofbw',
+      linkedin: 'łukasz-ćwikliński-b7802ab4'
     }
   }
 };
