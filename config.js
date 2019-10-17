@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'O mnie',
-      path: '/o-mnie'
+      path: '/pages/about'
     }
   ],
   author: {
@@ -26,10 +26,10 @@ module.exports = {
     bio: 'Python developer',
     contacts: {
       email: 'artofbw@gmail.com',
-      facebook: '100000300945833',
+      facebook: 'cwiklinski.lukasz',
       twitter: 'CwiklinskiUkasz',
       github: 'artofbw',
-      linkedin: 'łukasz-ćwikliński-b7802ab4'
+      linkedin: 'lukasz-cwiklinski'
     }
   }
 };
