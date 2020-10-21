@@ -1,9 +1,9 @@
 ---
-title: Metody regularne vs klasowe vs statyczne
+title: Asynchroniczny Python
 date: "2020-08-24T21:44:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/metody-w-pythonie/"
+slug: "/posts/asynchroniczny-python/"
 category: "Python 3"
 tags:
   - "#Programowanie"
@@ -18,7 +18,7 @@ socialImage: "/media/python-logo.png"
 
 ![](/media/python-logo.png)
 
-`Async` i `Await` to słowa kluczowe wprowadzona od Pythona 3.5+. Jakie różnice są między kodem synchronicznym a asynchronicznym? Czemu kod asynchroniczny jest ostatnio taki fancy? Językiem laika postaram się to objaśnić.
+`Async` i `Await` to słowa kluczowe wprowadzona od Pythona 3.5+. Jakie różnice są między kodem synchronicznym a asynchronicznym? Językiem laika postaram się to objaśnić.
 
 Czego dowiesz się po przeczytaniu tego artykułu? :
 
